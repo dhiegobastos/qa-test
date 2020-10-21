@@ -2,14 +2,18 @@
 
 Olá! Bom dia, boa tarde ou boa noite!
 
-Este é um desafio criado para a nossa seleção de uma pessoa Engenheira de Software que irá atuar na role de QA. 
+Este é um desafio criado para a nossa seleção de uma pessoa Engenheira de Software que irá atuar na role de QA.
+
 Leia atentamente todo o conteúdo desse documento antes de começar qualquer execução!
 
 Iremos utilizar o site https://automacaocombatista.herokuapp.com/treinamento/home para realizar nosso teste, onde faremos alguns cenários utilizando a linguagem Gherkin.
+
 À princípio, daremos um modelo para que você apenas crie os passos da automação. Depois, será necessário criar um teste baseado numa descrição de negócio.
 Por fim, você terá que criar um cenário que ache adequado para a situação. As descrições detalhadas dos passos estarão mais abaixo.
+
 O teste pode ser feito em qualquer linguagem de programação e com qualquer framework de teste de interface. Fica a seu critério escolher o que se adequa mais
 ao seu perfil e/ou ao seu conhecimento.
+
 A entrega desse teste pode ser feita através de um arquivo .zip ou .rar com os arquivos ou pode ser através de um link de seu Git pessoal (por exemplo).
 
 O que iremos avaliar:
@@ -49,6 +53,8 @@ Por fim, você terá que criar um cenário novo que não foi descrito anteriorme
 
 ## Considerações finais
 Por fim, é isso o teste! Espero que tenha conseguido fazer tudo e que tenha feito com bastante carinho e atenção! Aguardamos ansiosamente pelo seu envio e, assim que avaliarmos o teste, iremos te dar um retorno com feedbacks a respeito!
+
 Esperamos também que tenha gostado e que tenha aprendido um pouco conosco!
+
 Até breve!
 
