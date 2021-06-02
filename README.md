@@ -16,7 +16,7 @@ Por fim, você terá que criar um cenário que ache adequado para a situação. 
 O teste pode ser feito em qualquer linguagem de programação e com qualquer framework de teste de interface. Fica a seu critério escolher o que se adequa mais
 ao seu perfil e/ou ao seu conhecimento.
 
-A entrega desse teste pode ser feita através de um arquivo .zip ou .rar com os arquivos ou pode ser através de um link de seu Git pessoal (por exemplo).
+A entrega desse teste deve ser feita através do seu repositório Git pessoal (GitHub, Bitbucket, etc).
 
 Qualquer dúvida que tenha, basta entrar em contato conosco que teremos o maior prazer em te ajudar!
 
